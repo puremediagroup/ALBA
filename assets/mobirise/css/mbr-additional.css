@@ -1627,7 +1627,7 @@ section.lazy-placeholder:after {
 .cid-ryFwUiFUPM {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #ffffff;
+  background-color: #000000;
 }
 .cid-ryFwUiFUPM .listico {
   padding-right: 1rem;
@@ -1736,7 +1736,7 @@ section.lazy-placeholder:after {
   padding: 0px;
 }
 .cid-ryFwUiFUPM .text2 {
-  color: #000000;
+  color: #ffffff;
   text-align: left;
 }
 .cid-ryFwUiFUPM .group-title {
@@ -1745,7 +1745,7 @@ section.lazy-placeholder:after {
   padding-bottom: 0.2rem;
 }
 .cid-ryFwUiFUPM .links {
-  color: #656565;
+  color: #ffffff;
   line-height: 1.6;
   text-align: left;
 }
